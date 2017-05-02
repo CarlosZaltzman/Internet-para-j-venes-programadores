@@ -1,2 +1,6 @@
-# Internet-para-j-venes-programadores
-Una introducción a Internet para jóvenes.
+# Internet-para-jóvenes-programadores
+Una introducción a Internet para jóvenes
+Un estilo de vida
+Equipo
+Sitios imprescindibles
+Software imprescindible
